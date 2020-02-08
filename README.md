@@ -1,24 +1,5 @@
-# README
+A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships. Integration of JavaScript, AJAX requests and secure payment capabilities using Stripe. HTML5, CSS, Ruby, Algorithms, JavaScript, and Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://flixter-alper-duru.herokuapp.com/
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="1280" alt="Screen Shot 2020-02-07 at 10 01 19 PM" src="https://user-images.githubusercontent.com/43013844/74078875-6e072a80-49f5-11ea-9a96-b1e9bd1ea026.png">
